@@ -13,7 +13,7 @@ int main()
 {
 	struct abc p, temp;
 	p = (abc*)malloc(sizeof(abc));
-	p.data = 1;
+	p.data = 2;
 	//temp = (abc*)malloc(sizeof(abc));
 //	p.next = temp;
 //	p.data = 2;
