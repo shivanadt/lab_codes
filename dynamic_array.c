@@ -18,7 +18,7 @@ int main()
 	int temp;
 	int len;
 	
-	
+	// This program will try to demonstrate how dynamic array is created.
 	scanf("%d %d ",n,q);
 	for(ii = 0;ii<q;ii++) {
 		scanf("%d %ld %ld",q_num, x, y);
